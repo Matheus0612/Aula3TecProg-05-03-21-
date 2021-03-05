@@ -8,5 +8,6 @@ Código teste para a aula de Tec. de Programação
 
    <body>
       <p>Este é um pequeno site para teste</p>
+      <p>Aula de Técnicas de Programação</p
    </body>
 </html>
